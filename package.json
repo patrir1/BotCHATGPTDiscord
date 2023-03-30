@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.5.0",
+    "@discordjs/rest": "^1.6.0",
+    "axios": "^1.3.4",
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  },
+  "name": "botchatgptdiscord",
+  "description": "This is a Discord bot used for educational purposes, this bot uses the GPT-3 chat API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

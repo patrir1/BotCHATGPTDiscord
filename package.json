@@ -16,5 +16,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrir1/BotCHATGPTDiscord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patrir1/BotCHATGPTDiscord/issues"
+  },
+  "homepage": "https://github.com/patrir1/BotCHATGPTDiscord#readme"
 }
